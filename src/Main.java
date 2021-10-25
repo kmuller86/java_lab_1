@@ -35,5 +35,6 @@ public class Main {
         for (int i = 0; i < tab6.length; i++) {
             System.out.print(tab6[i] + " "); // 3 4 5 6
         }
+
     }
 }
