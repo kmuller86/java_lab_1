@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
+
         /* Przykłady wyświetlania tekstu w konsoli */
         System.out.println("Witaj świecie!");
         System.out.println("To jest nasz pierwszy program w języku java");
