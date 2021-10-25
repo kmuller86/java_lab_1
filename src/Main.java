@@ -23,5 +23,6 @@ public class Main {
         /*  Uwaga wtym wypadku gdy podamy liczbę np. 4 to konsola nie wypisze nam licz-by 5 tylko liczbę 41
             bo będzie łączyla każdy znak od lewej do typu tekstowego */
         System.out.println("Twój tekst to " + tekst + " i liczba zwiększona o 1 to " + liczba + 1);
+
     }
 }
