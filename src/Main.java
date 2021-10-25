@@ -34,6 +34,5 @@ public class Main {
         } else {
             System.out.println("5) wykonał sie else, zmienna > 5 i < 15 i !10");
         }
-
     }
 }
